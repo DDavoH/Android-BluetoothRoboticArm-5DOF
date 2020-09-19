@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArduinoBluetooth.iml" filepath="$PROJECT_DIR$/ArduinoBluetooth.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BluetoothArduino-RoboticArm-5DOF.iml" filepath="$PROJECT_DIR$/.idea/modules/BluetoothArduino-RoboticArm-5DOF.iml" group="BluetoothArduino-RoboticArm-5DOF" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="BluetoothArduino-RoboticArm-5DOF/app" />
     </modules>
   </component>
 </project>
