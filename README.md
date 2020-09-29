@@ -1,15 +1,14 @@
 # BluetoothArduino-RoboticArm-5DOF
 
-Aplicación Android para controlar mediante Bluetooth los angulos de un brazo robotico.
+Aplicación Android para controlar mediante Bluetooth los ángulos de un brazo robotico.
 
-La aplicación envia una cadena de datos por ejemplo:
+<img src="https://i.ibb.co/f03PKqV/Screenshot-20200919-183614-davoh-com-arduinobluetooth.jpg" alt="Screenshot-20200919-183614-davoh-com-arduinobluetooth" border="0"  width="300" height="600"/>
 
-180070080090060
+<img src="https://i.ibb.co/FbKdnzz/Screenshot-20200919-183618-davoh-com-arduinobluetooth.jpg" alt="Screenshot-20200919-183618-davoh-com-arduinobluetooth" border="0" width="300" height="600">
 
-cada 3 valores representa un angulo de 0 a 180, los valores que interpretaria el microcontrolador con el modulo bluetooth serian:
+<img src="https://i.ibb.co/Qj5w3Ms/Screenshot-20200919-183625-davoh-com-arduinobluetooth.jpg" alt="Screenshot-20200919-183625-davoh-com-arduinobluetooth" border="0" width="300" height="600">
 
-ángulo 1 : 180
-ángulo 2 : 070
-ángulo 3 : 080
-ángulo 4 : 090
-ángulo 5 : 060
+<img src="https://i.ibb.co/phpns2W/Screenshot-20200919-183631-davoh-com-arduinobluetooth.jpg" alt="Screenshot-20200919-183631-davoh-com-arduinobluetooth" border="0" width="300" height="600">
+
+
+
